@@ -1,0 +1,21 @@
+h1{color:#880000;
+  font-style: oblique;
+  font-size: 40px;
+}
+h2{color: #550088;
+  font-style: oblique;
+  font-size: 30px;
+}
+p{font-family: serif;
+  color: #882266;
+  font-size: 20px;
+  }
+ol{font-weight: 100;
+  font-family: cursive;
+  color: #660000;
+}
+ul{font-weight: 100;
+  font-family: cursive;
+  color: #660066;
+}
+body{background-color: #D3D3D3;}
